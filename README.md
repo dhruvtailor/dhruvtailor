@@ -4,8 +4,8 @@
 </em></p>
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/Dhruv0013?label=Follow&logoColor=black&style=social)
-[![Linkedin: Dhruv Tailor](https://img.shields.io/badge/-dhruvtailor-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dhruv-tailor/)](https://www.linkedin.com/in/dhruv-tailor/)
-![GitHub followers](https://img.shields.io/github/followers/dhruvtailor?label=Follow&style=social)
+[![Linkedin: Dhruv Tailor](https://img.shields.io/badge/-dhruvtailor-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dhruv-tailor/)](https://www.linkedin.com/in/dhruv-tailor/)
+![GitHub followers](https://img.shields.io/github/followers/dhruvtailor?&style=social)
 ![](https://visitor-badge.glitch.me/badge?page_id=dhruvtailor)
 
 
