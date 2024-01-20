@@ -1,6 +1,6 @@
 <h2>नमस्ते (Namaste) 🙏, I'm Dhruv Tailor <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Android & IoT Developer at <a href="http://www.cursor-soft.com/">Cursor Soft Pvt. Ltd.</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Android & IoT Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/Dhruv0013?label=Follow&logoColor=black&style=social)
