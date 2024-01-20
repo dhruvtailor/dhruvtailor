@@ -21,7 +21,7 @@ const dhruv = {
         desktopApp: ["Windows Forms App", "Windows Desktop App"],
         web: ["ASP.Net", "HTML", "Bootstrap"],
         frontEnd: {
-            design: ["Adobe Photoshop", "Adobe Illustrator", Corel Draw]
+            design: ["Adobe Photoshop", "Adobe Illustrator", "Corel Draw"]
         },
         backEnd: {
             webapi: ["php", "ASP.Net MVC WebAPI"]
