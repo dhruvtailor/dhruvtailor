@@ -26,8 +26,8 @@ const dhruv = {
         backEnd: {
             webapi: ["php", "ASP.Net MVC WebAPI"]
         },
-        devOps: ["AWS", "Azure"],
-        databases: ["MS SQL Server", "MySql", "sqlite"],
+        devOps: ["AWS", "Azure", "Github"],
+        databases: ["MS SQL Server", "MySQL", "sqlite"],
         misc: ["Firebase", "Raspberry Pi", "Arduino"]
     },
     funFact: "There are two ways to write error-free programs; only the third one works"
