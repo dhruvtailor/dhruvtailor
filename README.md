@@ -30,7 +30,7 @@ const dhruv = {
         databases: ["MS SQL Server", "MySql", "sqlite"],
         misc: ["Firebase", "Raspberry Pi", "Arduino"]
     },
-    currentProject: "I am working on Amaze World ICO project",
+    //currentStatus: "Studying a,
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
