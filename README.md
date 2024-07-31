@@ -7,7 +7,6 @@
 [![Linkedin: Dhruv Tailor](https://img.shields.io/badge/-dhruvtailor-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dhruv-tailor/)](https://www.linkedin.com/in/dhruv-tailor/)
 ![GitHub followers](https://img.shields.io/github/followers/dhruvtailor?&style=social)
 ![](https://visitor-badge.glitch.me/badge?page_id=dhruvtailor)
-[GitHub contributions]
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
