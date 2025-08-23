@@ -14,10 +14,10 @@
 ```javascript
 const dhruv = {
     pronouns: "He" | "Him",
-    code: ["C", "C++", "C#", "VB.Net", "Java", "Python", "Swift","Node.js"],
+    code: ["C", "C++", "C#", "VB.Net", "Java", "Python", "Swift", "Node.js"],
     askMeAbout: ["web dev", "tech", "app dev", "photography"],
     technologies: {
-        mobileApp: ["Android App", "iOS App","Flutter App", "React App"],
+        mobileApp: ["Android App", "iOS App", "Flutter App", "React App"],
         desktopApp: ["Windows Forms App", "Windows Desktop App"],
         web: ["ASP.Net", "HTML", "Bootstrap", "React"],
         frontEnd: {
