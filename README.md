@@ -34,5 +34,5 @@ const dhruv = {
 };
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"/> <em><b>a Web Developer and Data Analyst. I build intuitive apps and turn data into actionable insights using Machine Learning.</em>
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGpiNzE2OXkzbWZ4ZTQzNDJqZ2hwcDZjdHhvNGh5OHY4dnB3cG1waCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gXLuIr82X7OlG1m1x6/giphy.gif" width="60"/> <em><b>Mobile, IoT Developer and Data Analyst. I build intuitive apps and turn data into actionable insights using Machine Learning.</em>
 ---
