@@ -14,12 +14,12 @@
 ```javascript
 const dhruv = {
     pronouns: "He" | "Him",
-    code: ["C", "C++", "C#", "VB.Net", "Java", "Python", "Node.js"],
+    code: ["C", "C++", "C#", "VB.Net", "Java", "Python", "Swift","Node.js"],
     askMeAbout: ["web dev", "tech", "app dev", "photography"],
     technologies: {
-        mobileApp: ["Android App", "Flutter App"],
+        mobileApp: ["Android App", "iOS App","Flutter App", "React App"],
         desktopApp: ["Windows Forms App", "Windows Desktop App"],
-        web: ["ASP.Net", "HTML", "Bootstrap"],
+        web: ["ASP.Net", "HTML", "Bootstrap", "React"],
         frontEnd: {
             design: ["Adobe Photoshop", "Adobe Illustrator", "Corel Draw"]
         },
@@ -28,7 +28,7 @@ const dhruv = {
         },
         devOps: ["AWS", "Azure", "Github"],
         databases: ["MS SQL Server", "MySQL", "sqlite"],
-        misc: ["Firebase", "Raspberry Pi", "Arduino"]
+        misc: ["Firebase", "Raspberry Pi", "Arduino", "Machine Learning"]
     },
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
